@@ -15,9 +15,9 @@
 <!-- Your map goes here -->
 <a href="HW7.png">
     <img src="HW7.png" alt="HW 7" width='500px'>
-    <h3>CSV and Gejson</h3>
-<a href="CookPVIHW7.csv">
-<a href="HW7Vector.geojson">
+    <h3>CSV and Geojson</h3>
+<a href="CookPVIHW7.csv" alt=CookPVIHW7>
+<a href="HW7Vector.geojson" alt=HW7Vector>
 <p>Data was found at, https://www.cookpolitical.com/cook-pvi/2022-partisan-voting-index/state-map-and-list and https://www.cookpolitical.com/state-pvis Data was then combined and cleaned, used to find the difference for each state and then joined with Vector. 
 </p>
     
