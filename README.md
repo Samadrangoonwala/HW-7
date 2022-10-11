@@ -16,7 +16,7 @@
 <a href="HW7.png">
     <img src="HW7.png" alt="HW 7" width='500px'>
 
-    <h3>CSV and Geojson</h3>
+
  https://github.com/Samadrangoonwala/HW-7/blob/main/CookPVIHW7.csv
  https://github.com/Samadrangoonwala/HW-7/blob/main/HW7Vector.geojson
     
