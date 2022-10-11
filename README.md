@@ -24,6 +24,6 @@
 
 <a href="HW7Vector.geojson" alt=HW7Vector>
 
-<p>Data was found at, https://www.cookpolitical.com/cook-pvi/2022-partisan-voting-index/state-map-and-list and https://www.cookpolitical.com/state-pvis Data was then combined and cleaned, used to find the difference for each state and then joined with Vector. 
-</p>
+<h3>Data was found at, https://www.cookpolitical.com/cook-pvi/2022-partisan-voting-index/state-map-and-list and https://www.cookpolitical.com/state-pvis Data was then combined and cleaned, used to find the difference for each state and then joined with Vector. </h2>
+
     
